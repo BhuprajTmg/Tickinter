@@ -32,3 +32,6 @@ button is been pressed. the condition is checked in this function and particular
 and this is how cide if the calculator works
 
 
+
+![database_soft (4)](https://user-images.githubusercontent.com/78782286/119827031-6801c980-bf18-11eb-93c4-c38b955d8f46.jpg)
+
